@@ -16,9 +16,9 @@ public class If_else {
 		} else {
 			discount = price * 0.05;
 		}
-
+		
 		System.out.println("Product Value R$ : " + discount);
-
+		
 		sc.close();
 	}
 
