@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ternaryConditionalExpression.java&apos; to &apos;CoursoJava06.ternaryConditionalExpression.java&apos;&#x0D;&#x0A;- Original project: &apos;CoursoJava06&apos;&#x0D;&#x0A;- Destination element: &apos;CoursoJava06.ternaryConditionalExpression.java&apos;&#x0D;&#x0A;- Original element: &apos;CoursoJava06.ternaryConditionalExpression.java&apos;" description="Copy compilation unit" destination="/src&lt;CoursoJava06{ternaryConditionalExpression.java" element1="/src&lt;CoursoJava06{ternaryConditionalExpression.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1642772110361" units="1" version="1.0"/>
+</session>
